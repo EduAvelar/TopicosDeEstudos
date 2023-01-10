@@ -1,3 +1,9 @@
-# Instrodução ao Ciclo de desenvolvimento de software
+# Formação Quality Assurance (QA) Experience
 
-metodologias mais usadas hoje em uma equipe de desenvolvimento de software
+## Tópicos já estudados no bootcamp de QA
+
+* Ciclo de desenvolvimento de software e metologias ágeis
+* Desenvolvimento Moderno de Software
+* Fundamentos da Qualidade de Software
+* Introdução ao mercado de Qualidade
+* O caminho de certificação do CTFL
